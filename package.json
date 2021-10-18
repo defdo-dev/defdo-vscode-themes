@@ -3,6 +3,8 @@
     "displayName": "defdo-themes",
     "description": "The brand styles for vscode",
     "version": "0.0.1",
+    "publisher": "defdo",
+    "repository": "https://github.com/defdo-dev/defdo-themes",
     "engines": {
         "vscode": "^1.61.0"
     },
