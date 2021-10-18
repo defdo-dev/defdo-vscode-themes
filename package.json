@@ -5,6 +5,12 @@
     "version": "0.0.1",
     "publisher": "defdo",
     "repository": "https://github.com/defdo-dev/defdo-themes",
+    "icon": "images/logo-defdo-themes.png",
+    "keywords": [
+        "theme",
+        "defdo",
+        "defdo-themes"
+    ],
     "engines": {
         "vscode": "^1.61.0"
     },

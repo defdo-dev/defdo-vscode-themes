@@ -1997,7 +1997,7 @@
     "activityBar.foreground": "#f9bc02",
     "activityBar.background": "#0f0f0a",
     "activityBar.inactiveForeground": "#f9bb02b6",
-    "activityBarBadge.foreground": "#000000",
+    "activityBarBadge.foreground": "#0f0f0a",
     "activityBarBadge.background": "#f9bb02fa",
     "activityBar.border": "#f9bc0232",
     "activityBar.activeBackground": "#f9bc0214",
