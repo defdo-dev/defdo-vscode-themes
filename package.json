@@ -1,11 +1,11 @@
 {
     "name": "defdo-themes",
     "displayName": "defdo-themes",
-    "description": "The brand styles for vscode",
-    "version": "0.0.2",
+    "description": "The brand styles for vscode primarily focus on elixir syntax.",
+    "version": "0.0.3",
     "publisher": "defdo",
     "repository": "https://github.com/defdo-dev/defdo-vscode-themes",
-    "icon": "images/logo-defdo-themes.png",
+    "icon": "https://github.com/defdo-dev/defdo-vscode-themes/blob/main/images/logo-defdo-themes.png",
     "keywords": [
         "theme",
         "defdo",
