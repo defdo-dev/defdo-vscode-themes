@@ -6,13 +6,14 @@ Feel free to open an Issue or a PR.
 
 We expect support highlights for the following files.
 
-[] Elixir
-  [] ex
-  [] Heex
-[] Markdown
-[] JS
-[] HTML
-[] Json
+- [ ] Elixir
+  - [ ] ex
+  - [ ] Heex
+- [ ] JS
+- [ ] HTML
+- [ ] Json
+- [ ] Markdown
+
 
 We appreciate any suggestions.
 
