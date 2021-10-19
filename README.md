@@ -24,4 +24,4 @@ In the following reviews, I will remove languages that are not part of the list 
 
 ## Elixir
 
-![ex](https://github.com/defdo-dev/defdo-vscode-themes/blob/main/images/file-ex.png|alt=ex)
+![ex](https://raw.githubusercontent.com/defdo-dev/defdo-vscode-themes/main/images/file-ex.png)
