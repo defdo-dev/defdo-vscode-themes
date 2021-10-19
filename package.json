@@ -5,7 +5,11 @@
     "version": "0.0.3",
     "publisher": "defdo",
     "repository": "https://github.com/defdo-dev/defdo-vscode-themes",
-    "icon": "https://github.com/defdo-dev/defdo-vscode-themes/blob/main/images/logo-defdo-themes.png",
+    "icon": "images/logo-defdo-themes.png",
+    "galleryBanner": {
+        "color": "#0F0F0A",
+        "theme": "dark"
+    },
     "keywords": [
         "theme",
         "defdo",
