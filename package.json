@@ -4,7 +4,7 @@
     "description": "The brand styles for vscode",
     "version": "0.0.2",
     "publisher": "defdo",
-    "repository": "https://github.com/defdo-dev/defdo-themes",
+    "repository": "https://github.com/defdo-dev/defdo-vscode-themes",
     "icon": "images/logo-defdo-themes.png",
     "keywords": [
         "theme",
