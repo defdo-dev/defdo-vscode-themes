@@ -27,7 +27,12 @@
                 "label": "defdo yellow",
                 "uiTheme": "vs-dark",
                 "path": "./themes/defdo-yellow-color-theme.json"
-            }
+            },
+            {
+                "label": "defdo base",
+                "uiTheme": "vs-dark",
+                "path": "./themes/defdo-base-theme.json"
+            },
         ]
     }
 }
