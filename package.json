@@ -26,7 +26,12 @@
             {
                 "label": "defdo base",
                 "uiTheme": "vs-dark",
-                "path": "./themes/defdo-base-theme.json"
+                "path": "./themes/defdo-theme-base.json"
+            },
+            {
+                "label": "defdo halloween",
+                "uiTheme": "vs-dark",
+                "path": "./themes/defdo-theme-halloween.json"
             }
         ]
     }
