@@ -135,7 +135,7 @@
     "merge.incomingHeaderBackground": "#395F8F",
     "merge.incomingContentBackground": "#28384B",
     "merge.commonHeaderBackground": "#383838",
-    "merge.commonContentBackground": "#282828",
+    "merge.commonContentBackground": "#282828"
   },
   "tokenColors": [
     {
