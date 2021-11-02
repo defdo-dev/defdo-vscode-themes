@@ -4,6 +4,9 @@ All notable changes to the "defdo-themes" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.11]
+
+- improve terminal selection.
 ## [0.0.10]
 
 - Support for halloween theme.
