@@ -103,7 +103,7 @@
     "notificationCenterHeader.background": "#1f1d36",
     "notifications.background": "#1f1d36",
     "banner.background": "#1f1d36",
-    "terminal.selectionBackground": "#afa6f6",
+    "terminal.selectionBackground": "#F8F8F802",
     "terminalCursor.background": "#afa6f622",
     "terminal.ansiBlack": "#1f1d36",
     "terminal.ansiBrightBlack": "#666666",
