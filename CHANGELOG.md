@@ -4,6 +4,9 @@ All notable changes to the "defdo-themes" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.12]
+
+- Updated dark main bg color for get better contrast.
 ## [0.0.11]
 
 - improve terminal selection.
