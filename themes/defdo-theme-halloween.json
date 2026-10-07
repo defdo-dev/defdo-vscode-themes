@@ -91,7 +91,7 @@
     "editorError.background": "#afa6f621",
     "editorWarning.background": "#afa6f622",
     "editorInfo.background": "#00000071",
-    "list.inactiveSelectionBackground": "#afa6f607",
+    "list.inactiveSelectionBackground": "#afa6f63a",
     "list.hoverBackground": "#afa6f62a",
     "list.activeSelectionBackground": "#afa6f64a",
     "tree.indentGuidesStroke": "#afa6f67a",

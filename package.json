@@ -2,7 +2,7 @@
     "name": "defdo-themes",
     "displayName": "defdo-themes",
     "description": "The brand styles for vscode primarily focus on elixir syntax.",
-    "version": "0.0.14",
+    "version": "0.0.16",
     "publisher": "defdo",
     "repository": "https://github.com/defdo-dev/defdo-vscode-themes",
     "icon": "images/logo-defdo-themes.png",
@@ -32,6 +32,31 @@
                 "label": "defdo halloween",
                 "uiTheme": "vs-dark",
                 "path": "./themes/defdo-theme-halloween.json"
+            },
+            {
+                "label": "defdo dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/defdo-theme-dark.json"
+            },
+            {
+                "label": "defdo gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/defdo-theme-gray.json"
+            },
+            {
+                "label": "defdo solid-gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/defdo-theme-solid-gray.json"
+            },
+            {
+                "label": "defdo shadow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/defdo-theme-shadow.json"
+            },
+            {
+                "label": "defdo yellow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/defdo-theme-yellow.json"
             }
         ]
     }
